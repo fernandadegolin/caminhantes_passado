@@ -1,4 +1,4 @@
-## caminhantes_passado
+## caminhantes passado
 
 Projeto pessoal de teste de aprendizado com JS
 
