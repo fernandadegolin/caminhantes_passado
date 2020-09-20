@@ -1,6 +1,6 @@
 ## caminhantes passado
 
-Projeto pessoal de teste de aprendizado com JS
+Projeto pessoal testando os aprendizados com JS
 
 Fontes das imagens: https://www.openpeeps.com/ 
 
