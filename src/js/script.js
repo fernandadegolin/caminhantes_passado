@@ -1,6 +1,5 @@
 
 /* .text */
-  
   class TextScramble {
       constructor(el) {
         this.el = el
